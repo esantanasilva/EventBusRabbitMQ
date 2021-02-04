@@ -56,4 +56,4 @@ OBS: __Deverá ser criado um *index patern*__
 
 Também foram adicionados logs no console, sendo assim, serão exibidos logs no console da aplicação.
 
-![teste-pratico-docker](C:\desenvolvimento_sw\EventBusRabbitMQ\teste-pratico-docker.svg)
+![alt text](https://imgur.com/gallery/J6f5dqx)
