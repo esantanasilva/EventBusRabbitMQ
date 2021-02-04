@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventBus", "EventBus\EventBus.csproj", "{894BDD71-1853-41CE-AE94-CF5BBC6AE58C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroServiceA", "MicroServiceA\MicroServiceA.csproj", "{66633FC4-D3F3-48E4-8D8D-979E9A768F0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{894BDD71-1853-41CE-AE94-CF5BBC6AE58C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{894BDD71-1853-41CE-AE94-CF5BBC6AE58C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{894BDD71-1853-41CE-AE94-CF5BBC6AE58C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{894BDD71-1853-41CE-AE94-CF5BBC6AE58C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66633FC4-D3F3-48E4-8D8D-979E9A768F0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66633FC4-D3F3-48E4-8D8D-979E9A768F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66633FC4-D3F3-48E4-8D8D-979E9A768F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66633FC4-D3F3-48E4-8D8D-979E9A768F0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {006BADE6-1B95-4029-BFA8-8219292A7EFA}
+	EndGlobalSection
+EndGlobal
