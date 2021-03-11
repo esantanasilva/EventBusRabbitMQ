@@ -1,13 +1,5 @@
 # Barramento de Eventos
 
-### Estrutura do Projeto
-```bash
-├── EventBus
-├── MicroServiceA
-│   └── Worker.cs
-└──
-```
-
 ##### A estrutura do projeto é formada por dois compoentes: 
     [.netstandard2.0] EventBus - Artefato responsável por gerenciar as publicações, inscrições e consumidores.
     [netcore 3.1] MicroServiceA: Artefato responsável por publicar e consumir as mensagens.
